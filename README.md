@@ -1,4 +1,4 @@
-# GitHub Codespaces ♥️ React
+# GitHub Codespaces ♥️ React CREATED BY IAIN URE
 
 Welcome to your shiny new Codespace running React! We've got everything fired up and running for you to explore React.
 
